@@ -1,0 +1,2 @@
+inversibilidad: capacidad de un predicado de completar la variable que falta para
+que el hecho sea verdadero.
